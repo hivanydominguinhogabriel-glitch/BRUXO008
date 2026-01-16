@@ -1,0 +1,8 @@
+{
+  "name": "Copy of TeteEncontros",
+  "description": "O aplicativo de namoro exclusivo para a província de Tete, Moçambique. Encontre o seu par ideal nas margens do Rio Zambeze.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
